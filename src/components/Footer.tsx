@@ -15,6 +15,7 @@ export default function Footer() {
 							target="_blank"
 							rel="noopener noreferrer">
 							&nbsp; Krishnanu Singh
+							
 						</Link>
 					</Typography>
 				</Box>
