@@ -14,7 +14,7 @@ export default function Footer() {
 							href="https://github.com/krishnanu5836"
 							target="_blank"
 							rel="noopener noreferrer">
-							&nbsp; Kitanu Singh
+							&nbsp; Krishnanu Singh
 						</Link>
 					</Typography>
 				</Box>
